@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingDojo2", "CodingDojo2\CodingDojo2.csproj", "{D1726A9F-EF74-495E-871F-F8E81A3003E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD1_Savanovic", "CD1_Savanovic\CD1_Savanovic.csproj", "{4C232D3A-62C5-44AC-A413-0990175862DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D1726A9F-EF74-495E-871F-F8E81A3003E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1726A9F-EF74-495E-871F-F8E81A3003E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1726A9F-EF74-495E-871F-F8E81A3003E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1726A9F-EF74-495E-871F-F8E81A3003E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C232D3A-62C5-44AC-A413-0990175862DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C232D3A-62C5-44AC-A413-0990175862DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C232D3A-62C5-44AC-A413-0990175862DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C232D3A-62C5-44AC-A413-0990175862DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

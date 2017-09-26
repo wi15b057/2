@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D1726A9F-EF74-495E-871F-F8E81A3003E2}</ProjectGuid>
+    <ProjectGuid>{4C232D3A-62C5-44AC-A413-0990175862DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodingDojo2</RootNamespace>
-    <AssemblyName>CodingDojo2</AssemblyName>
+    <RootNamespace>CD1_Savanovic</RootNamespace>
+    <AssemblyName>CD1_Savanovic</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
